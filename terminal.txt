@@ -1,0 +1,34 @@
+Check balance:
+50.00000000
+Create new address:
+bcrt1qzdth6keknrxtnsyvcedn850r4xpykuhe0fkevv
+Send bitcoin to the new address:
+4f5dcb066abe2926f00ff50fa4486072eb5a5804a49b86632cf98c0d85687278
+List unspent transactions
+[
+  {
+    "txid": "4f5dcb066abe2926f00ff50fa4486072eb5a5804a49b86632cf98c0d85687278",
+    "vout": 0,
+    "address": "bcrt1qsjltklgrw2kq3vmmemx9hglwasfwkv25ne8jag",
+    "scriptPubKey": "001484bebb7d0372ac08b37bcecc5ba3eeec12eb3154",
+    "amount": 49.89999859,
+    "confirmations": 0,
+    "spendable": true,
+    "solvable": true,
+    "desc": "wpkh([2aee1fee/0'/1'/1']02905f172f3a9f7fb1f25500e25180c07d8e01cfbc53848f060032023a0a2f5116)#zqhwyw5x",
+    "safe": true
+  },
+  {
+    "txid": "4f5dcb066abe2926f00ff50fa4486072eb5a5804a49b86632cf98c0d85687278",
+    "vout": 1,
+    "address": "bcrt1qzdth6keknrxtnsyvcedn850r4xpykuhe0fkevv",
+    "label": "",
+    "scriptPubKey": "001413577d5b3698ccb9c08cc65b33d1e3a9824b72f9",
+    "amount": 0.10000000,
+    "confirmations": 0,
+    "spendable": true,
+    "solvable": true,
+    "desc": "wpkh([2aee1fee/0'/0'/3']03c6fd6904bb6b31f1ce63a4d13c899464e6a5c32244fdb0fe70a2bfc815fcb901)#dhtkycnv",
+    "safe": true
+  }
+]
